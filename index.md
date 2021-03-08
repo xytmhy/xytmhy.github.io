@@ -1,13 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Haoyu Ma's Personal Page
 
-You can use the [editor on GitHub](https://github.com/xytmhy/xytmhy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+News: Since 2020, I became a Computer Vision Engineer at Apple R&D, Shanghai. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received both my Master's & Bachelor's Degree in Electronic Engineering from Tsinghua University. 
+I also used to be the research intern for Microsoft Research Asia (MSRA).
 
-### Markdown
+My research interests are in computer vision/image processing and deep learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+#### Selected
+```markdown
+H. Ma, Q. Liao, J. Zhang, S. Liu and J. -H. Xue, "**An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion**," in IEEE Transactions on Image Processing, vol. 29, pp. 8668-8679, 2020, doi: 10.1109/TIP.2020.3018261.
 
+H. Ma, J. Zhang, S. Liu and Q. Liao, "**Boundary Aware Multi-focus Image Fusion Using Deep Neural Network**," 2019 IEEE International Conference on Multimedia and Expo (ICME), Shanghai, China, 2019, pp. 1150-1155, doi: 10.1109/ICME.2019.00201.
+
+
+#### The others
 ```markdown
 Syntax highlighted code block
 
