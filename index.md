@@ -8,14 +8,19 @@ I also used to be the research intern for Microsoft Research Asia (MSRA).
 My research interests are in computer vision/image processing and deep learning.
 
 ### Publications
-#### Selected
+
 ```markdown
-H. Ma, Q. Liao, J. Zhang, S. Liu and J. -H. Xue, "**An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion**," in IEEE Transactions on Image Processing, vol. 29, pp. 8668-8679, 2020, doi: 10.1109/TIP.2020.3018261.
+#### Selected
+```
+H. Ma, Q. Liao, J. Zhang, S. Liu and J. -H. Xue, " **An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion** ," in IEEE Transactions on Image Processing, vol. 29, pp. 8668-8679, 2020, doi: 10.1109/TIP.2020.3018261.
 
-H. Ma, J. Zhang, S. Liu and Q. Liao, "**Boundary Aware Multi-focus Image Fusion Using Deep Neural Network**," 2019 IEEE International Conference on Multimedia and Expo (ICME), Shanghai, China, 2019, pp. 1150-1155, doi: 10.1109/ICME.2019.00201.
+H. Ma, J. Zhang, S. Liu and Q. Liao, " **Boundary Aware Multi-focus Image Fusion Using Deep Neural Network** ," 2019 IEEE International Conference on Multimedia and Expo (ICME), Shanghai, China, 2019, pp. 1150-1155, doi: 10.1109/ICME.2019.00201.
 
-
+```markdown
 #### The others
+```
+Juncheng Zhang, Qingmin Liao, Shaojun Liu, Haoyu Ma, Wenming Yang, Jing-Hao Xue, " **Real-MFF: A large realistic multi-focus image dataset with ground truth** ,", Pattern Recognition Letters, vol. 138, pp. 370-377, 2020, doi: 10.1016/j.patrec.2020.08.002.
+
 ```markdown
 Syntax highlighted code block
 
