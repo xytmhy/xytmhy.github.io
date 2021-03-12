@@ -26,7 +26,7 @@ H. Ma, J. Zhang, S. Liu and Q. Liao, " **Boundary Aware Multi-focus Image Fusion
 
 L. Chen, Z. Lu, H. Ma, J. -H. Xue and Q. Liao, " **Disparity Estimation with Scene Depth Cues** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
 
-K. Zhang, J. Zhang, H. Ma, S. Liu, J. -H. Xue and Q. Liao, " **EFRNET: A Lightweight Network with Efficient Feature Fusion and Refinement for Real-time Semantic Segmentation** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
+Y. Liu, J. Zhang, H. Ma, S. Liu, J. -H. Xue and Q. Liao, " **EFRNET: A Lightweight Network with Efficient Feature Fusion and Refinement for Real-time Semantic Segmentation** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
 
 C. Li, H. Ma* and Q. Liao, " **Two-Stage Adaptive Object Scene Flow Using Hybrid CNN-CRF Model** ," 25th International Conference on Pattern Recognition (ICPR), Milano, Italy, 2020.
 
