@@ -1,6 +1,7 @@
 ## Welcome to Haoyu Ma's Personal Page
 
 News: Since 2020, I became a Computer Vision Engineer at Apple R&D, Shanghai. 
+(Our teams in Shanghai have several positions open on Cameras/Hardware/ISP; if insterested, please reach me by haoyu_ma@apple.com.)
 
 I received both my Master's & Bachelor's Degree in Electronic Engineering from Tsinghua University. 
 I also used to be the research intern for Microsoft Research Asia (MSRA).
