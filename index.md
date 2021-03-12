@@ -12,7 +12,7 @@ My research interests are in computer vision/image processing and deep learning.
 ## Publications
 
 ```markdown
-** Selected Papers **
+Selected Papers
 ```
 
 H. Ma, Q. Liao, J. Zhang, S. Liu and J. -H. Xue, " **An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion** ," in IEEE Transactions on Image Processing, vol. 29, pp. 8668-8679, 2020, doi: [10.1109/TIP.2020.3018261](https://ieeexplore.ieee.org/document/9178463).
@@ -23,7 +23,7 @@ H. Ma, J. Zhang, S. Liu and Q. Liao, " **Boundary Aware Multi-focus Image Fusion
 
 
 ```markdown
-***** Others ******
+Others
 ```
 
 L. Chen, Z. Lu, H. Ma, J. -H. Xue and Q. Liao, " **Disparity Estimation with Scene Depth Cues** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
