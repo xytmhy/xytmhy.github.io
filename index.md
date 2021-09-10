@@ -28,7 +28,7 @@ Others
 
 L. Chen, Z. Lu, H. Ma, J. -H. Xue and Q. Liao, " **Disparity Estimation with Scene Depth Cues** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
 
-Y. Liu, J. Zhang, H. Ma, S. Liu, J. -H. Xue and Q. Liao, " **EFRNET: A Lightweight Network with Efficient Feature Fusion and Refinement for Real-time Semantic Segmentation** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.
+K. Zhang, Q. Liao, J. Zhang, S. Liu, H. Ma and J. -H. Xue, " **EFRNet: A Lightweight Network with Efficient Feature Fusion and Refinement for Real-Time Semantic Segmentation** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: [10.1109/ICME51207.2021.9428371](https://ieeexplore.ieee.org/document/9428371).
 
 C. Li, H. Ma* and Q. Liao, " **Two-Stage Adaptive Object Scene Flow Using Hybrid CNN-CRF Model** ," 25th International Conference on Pattern Recognition (ICPR), Milano, Italy, 2020.
 
