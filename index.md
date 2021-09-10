@@ -30,7 +30,7 @@ L. Chen, Z. Lu, Q. Liao, H. Ma and J. -H. Xue, " **Disparity Estimation with Sce
 
 K. Zhang, Q. Liao, J. Zhang, S. Liu, H. Ma and J. -H. Xue, " **EFRNet: A Lightweight Network with Efficient Feature Fusion and Refinement for Real-Time Semantic Segmentation** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: [10.1109/ICME51207.2021.9428371](https://ieeexplore.ieee.org/document/9428371).
 
-C. Li, H. Ma* and Q. Liao, " **Two-Stage Adaptive Object Scene Flow Using Hybrid CNN-CRF Model** ," 25th International Conference on Pattern Recognition (ICPR), Milano, Italy, 2020.
+C. Li, H. Ma and Q. Liao, " **Two-Stage Adaptive Object Scene Flow Using Hybrid CNN-CRF Model** ," 2020 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 3876-3883, doi: [10.1109/ICPR48806.2021.9413289](https://ieeexplore.ieee.org/document/9413289).
 
 J. Zhang, Q. Liao, S. Liu, H. Ma, W. Yang, J. -H. Xue, " **Real-MFF: A large realistic multi-focus image dataset with ground truth** ," in Pattern Recognition Letters, vol. 138, pp. 370-377, 2020, doi: [10.1016/j.patrec.2020.08.002](https://www.sciencedirect.com/science/article/abs/pii/S0167865520303007?via%3Dihub).
 
