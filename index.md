@@ -15,7 +15,7 @@ My research interests are in computer vision/image processing and deep learning.
 Selected Papers
 ```
 
-H. Ma, S. Liu, J. Zhang, Q. Liao and J. -H. Xue, " **Defocus Image Deblurring Network with Defocus Map Estimation as Auxiliary Task** ," in IEEE Transactions on Image Processing, 2021.
+H. Ma, S. Liu, J. Zhang, Q. Liao and J. -H. Xue, " **Defocus Image Deblurring Network with Defocus Map Estimation as Auxiliary Task** ," in IEEE Transactions on Image Processing, 2021, doi: [10.1109/TIP.2021.3127850](https://ieeexplore.ieee.org/document/9619959).
 
 H. Ma, Q. Liao, J. Zhang, S. Liu and J. -H. Xue, " **An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion** ," in IEEE Transactions on Image Processing, vol. 29, pp. 8668-8679, 2020, doi: [10.1109/TIP.2020.3018261](https://ieeexplore.ieee.org/document/9178463).
 
