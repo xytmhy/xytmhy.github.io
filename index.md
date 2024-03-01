@@ -25,6 +25,7 @@ H. Ma, J. Zhang, S. Liu and Q. Liao, " **Boundary Aware Multi-focus Image Fusion
 ```markdown
 Others
 ```
+Y. Liu, J. Zhang, Q. Liao, H. Ma, S. Liu, " **Feature Pyramid Boosting Network for Rendering Natural Bokeh** ," 2022 IEEE International Conference on Multimedia and Expo (ICME), 2022, pp. 1-6, doi: [10.1109/ICME52920.2022.9859850](https://ieeexplore.ieee.org/document/9859850).
 
 L. Chen, Z. Lu, Q. Liao, H. Ma and J. -H. Xue, " **Disparity Estimation with Scene Depth Cues** ," 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: [10.1109/ICME51207.2021.9428216](https://ieeexplore.ieee.org/document/9428216).
 
